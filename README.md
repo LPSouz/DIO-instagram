@@ -1,3 +1,3 @@
 # DIO-instagram
 
-Projetorealizado para o entendimento de HTML e CSS
+Projeto realizado para o entendimento de HTML e CSS
